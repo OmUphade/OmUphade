@@ -1,41 +1,35 @@
-<!-- Profile Banner -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Welcome Banner">
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
+</p>
 
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Om Uphade</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Hackathon Enthusiast | Lifelong Learner</h3>
+<!-- Hacker Style Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Hacker GIF">
+</p>
 
 ---
 
 ## 🚀 About Me  
-💡 Passionate about creating impactful web applications and solving real-world problems through technology.  
-💻 Skilled in the **MERN stack** with hands-on experience in **hackathon projects** and full-stack development.  
-🌱 Currently exploring **advanced backend architectures & deployment strategies**.  
+💡 Turning ideas into reality through **code** and creativity.  
+💻 Skilled in the **MERN stack** with hands-on **hackathon experience**.  
+🌱 Always exploring new tech to push the limits of what's possible.  
 
 ---
 
-## 🛠 Tech Stack  
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tool-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+## 🛠 Modern Tech Stack  
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" /> |
+| 🖥 **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| 🗄 **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
+| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| ☕ **Languages** | <img src="https://skillicons.dev/icons?i=java,javascript" /> |
+
+</div>
 
 ---
 
@@ -65,13 +59,13 @@ Tech: **HTML, CSS, JavaScript**
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmUphade&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmUphade&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmUphade&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmUphade&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:omuphade1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="http://linkedin.com/in/omuphade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

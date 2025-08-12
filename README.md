@@ -1,73 +1,86 @@
-# 👋 Hi, I'm Om Uphade  
+<!-- Profile Banner -->
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Welcome Banner">
 
-🚀 Passionate about building impactful web solutions and exploring modern technologies.  
-💡 Full Stack Web Developer (MERN Stack) | Hackathon Enthusiast | Problem Solver  
-
----
-
-## 📬 Contact  
-- **Email:** [omuphade1@gmail.com](mailto:omuphade1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/omuphade](http://linkedin.com/in/omuphade)  
-- **GitHub:** [github.com/OmUphade](https://github.com/OmUphade)  
-- **Phone:** +91 9730334101  
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Om Uphade</span> 👋</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Hackathon Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 🎓 Education  
-**D Y Patil College of Engineering, Akurdi** *(Aug 2023 – May 2027)*  
-_Bachelor of Engineering in Information Technology_  
-📍 Pune, India  
-**CGPA:** 8.18  
-
-**S.S.M.V. & Jr. College** *(Jun 2021 – Mar 2023)*  
-_PCM (HSC)_ — **79.5%**  
+## 🚀 About Me  
+💡 Passionate about creating impactful web applications and solving real-world problems through technology.  
+💻 Skilled in the **MERN stack** with hands-on experience in **hackathon projects** and full-stack development.  
+🌱 Currently exploring **advanced backend architectures & deployment strategies**.  
 
 ---
 
-## 🛠 Skills  
-
-**Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Node.js, Express.js, React, EJS, Bootstrap, Tailwind  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code  
+## 🛠 Tech Stack  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tool-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 💼 Experience  
+## 🌟 Featured Projects  
 
-### **Volunteer – Team Guardian, Magnitude Hackathon**  
-📍 D Y Patil College of Engineering | Feb 2025  
-- Acted as **Team Guardian** during the 24-hour in-house hackathon **Magnitude**.  
-- Coordinated event logistics & ensured smooth communication between teams and organizers.  
+### [🌍 WanderLust](https://github.com/OmUphade/WanderLust)
+A travel accommodation platform inspired by Airbnb.  
+Tech: **EJS, CSS, JavaScript, Node.js, Express.js, MongoDB**  
+- MVC architecture with **server-side validation** using Joi.  
+- Integrated **Mapbox** for maps & **Cloudinary** for image uploads.  
+- Deployed on **Render** with MongoDB Atlas.  
 
 ---
 
-## 🚀 Projects  
-
-### [🌍 WanderLust](https://github.com/OmUphade/WanderLust.git)  
-*EJS, CSS, JavaScript, Node.js, Express.js, MongoDB*  
-- Travel accommodation platform inspired by Airbnb using **MVC architecture**.  
-- Integrated **Mapbox** for interactive maps & **Cloudinary** for image storage.  
-- Implemented **server-side validation** with Joi & deployed on **Render** with MongoDB Atlas.  
-
-### [💻 Hack The Web – NGO Website](https://github.com/OmUphade/Hack-The-Web.git)  
-*HTML, CSS, JavaScript*  
-- Fully responsive NGO website built in **24 hours** for a hackathon.  
+### [💻 Hack The Web – NGO Website](https://github.com/OmUphade/Hack-The-Web)
+Fully responsive NGO website built in 24 hours during a hackathon.  
+Tech: **HTML, CSS, JavaScript**  
 - Achieved **2nd Runner-Up** position.  
 
 ---
 
-## 🏆 Honors & Awards  
-- **Hack the Web Hackathon** – *2nd Runner-Up* (1st in Round 1) — KK Computers, 2025  
+## 🏆 Achievements  
+- 🥈 **2nd Runner-Up** – Hack the Web Hackathon 2025 (1st in Round 1)  
+- 🎯 Multiple hackathon participations with impactful results  
 
 ---
 
-## 📜 Certifications  
-- **Full Stack Web Development (MERN Stack)** – Apna College  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmUphade&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmUphade&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-### 💡 Fun Fact:  
-When I’m not coding, you’ll probably find me exploring new tech tools, brainstorming hackathon ideas, or diving into interesting web projects.  
+## 🌐 Let's Connect  
+<p align="center">
+  <a href="mailto:omuphade1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://linkedin.com/in/omuphade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/OmUphade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</p>

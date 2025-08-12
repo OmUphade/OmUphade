@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
-<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU2eHFhOXZzd2YwZ2ZoZDV4bDRoNWhjcG85a2h1NnAwdGd5ZjloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Code Animation">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=4CAF50&center=true&vCenter=true&width=550&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building;sudo+apt-get+install+creativity" alt="Typing Animation" />
 </p>

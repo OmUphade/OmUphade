@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
-<!-- Hacker Style Banner -->
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Hacker GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=4CAF50&center=true&vCenter=true&width=550&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building;sudo+apt-get+install+creativity" alt="Typing Animation" />
 </p>
+
 
 ---
 

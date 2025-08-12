@@ -1,81 +1,73 @@
-👋 Hi there, I'm Om Uphade
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlsdHZqM3Nzb2d6N3AwdDMyb3IwdGlwM3dseGd4NWVtd2Q5YzVrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1MO8psD9Y74A1sE/giphy.gif" alt="Coding GIF" width="300"/>
-</div>
+# 👋 Hi, I'm Om Uphade  
 
-🧑‍💻 About Me
-I'm an Information Technology student at DY Patil College of Engineering, passionate about full-stack web development. I enjoy building applications and solving problems with code. My goal is to apply my knowledge to create impactful and user-friendly digital experiences. I am currently honing my skills in the MERN stack and exploring new backend technologies.
+🚀 Passionate about building impactful web solutions and exploring modern technologies.  
+💡 Full Stack Web Developer (MERN Stack) | Hackathon Enthusiast | Problem Solver  
 
-🚀 Skills
-<br/>
+---
 
-Frontend Development
-<br/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-<br/>
-<br/>
+## 📬 Contact  
+- **Email:** [omuphade1@gmail.com](mailto:omuphade1@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/omuphade](http://linkedin.com/in/omuphade)  
+- **GitHub:** [github.com/OmUphade](https://github.com/OmUphade)  
+- **Phone:** +91 9730334101  
 
-Backend & Frameworks
-<br/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
-<br/>
-<br/>
+---
 
-Styling & UI
-<br/>
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-<br/>
-<br/>
+## 🎓 Education  
+**D Y Patil College of Engineering, Akurdi** *(Aug 2023 – May 2027)*  
+_Bachelor of Engineering in Information Technology_  
+📍 Pune, India  
+**CGPA:** 8.18  
 
-Databases
-<br/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-<br/>
-<br/>
+**S.S.M.V. & Jr. College** *(Jun 2021 – Mar 2023)*  
+_PCM (HSC)_ — **79.5%**  
 
-Tools & Version Control
-<br/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-<br/>
-<br/>
+---
 
-🏗️ Projects
-Wanderlust
-✨ A full-stack travel accommodation platform inspired by Airbnb, applying MVC architecture.
+## 🛠 Skills  
 
-Technologies: EJS, CSS, JavaScript, Node.js, Express.js, MongoDB
+**Languages:** Java, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Node.js, Express.js, React, EJS, Bootstrap, Tailwind  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code  
 
-Key Features: Server-side validation using Joi, integrated interactive maps with Mapbox, and used Cloudinary for image storage.
+---
 
-Deployment: Deployed on Render with MongoDB Atlas for database management.
+## 💼 Experience  
 
-Hack the Web Responsive NGO Website
-🌐 A fully responsive website developed for a non-profit organization during a 24-hour hackathon.
+### **Volunteer – Team Guardian, Magnitude Hackathon**  
+📍 D Y Patil College of Engineering | Feb 2025  
+- Acted as **Team Guardian** during the 24-hour in-house hackathon **Magnitude**.  
+- Coordinated event logistics & ensured smooth communication between teams and organizers.  
 
-Technologies: HTML, CSS, JavaScript
+---
 
-Recognition: Secured the 2nd Runner-Up position in the Hack the Web Hackathon.
+## 🚀 Projects  
 
-🏅 Certifications & Awards
-Full Stack Web Development (MERN Stack): APNA COLLEGE
+### [🌍 WanderLust](https://github.com/OmUphade/WanderLust.git)  
+*EJS, CSS, JavaScript, Node.js, Express.js, MongoDB*  
+- Travel accommodation platform inspired by Airbnb using **MVC architecture**.  
+- Integrated **Mapbox** for interactive maps & **Cloudinary** for image storage.  
+- Implemented **server-side validation** with Joi & deployed on **Render** with MongoDB Atlas.  
 
-Hack the Web Hackathon 2nd Runner-Up: KK Computers, 2025
+### [💻 Hack The Web – NGO Website](https://github.com/OmUphade/Hack-The-Web.git)  
+*HTML, CSS, JavaScript*  
+- Fully responsive NGO website built in **24 hours** for a hackathon.  
+- Achieved **2nd Runner-Up** position.  
 
-🌱 I'm currently learning...
-...more advanced features of React and exploring new backend technologies.
+---
 
-📫 Connect with me
-LinkedIn: [Your LinkedIn URL]
+## 🏆 Honors & Awards  
+- **Hack the Web Hackathon** – *2nd Runner-Up* (1st in Round 1) — KK Computers, 2025  
 
-GitHub: [Your GitHub URL]
+---
 
-Email: omuphade1@gmail.com
+## 📜 Certifications  
+- **Full Stack Web Development (MERN Stack)** – Apna College  
 
-GitHub Stats
+---
+
+### 💡 Fun Fact:  
+When I’m not coding, you’ll probably find me exploring new tech tools, brainstorming hackathon ideas, or diving into interesting web projects.  
+
+---

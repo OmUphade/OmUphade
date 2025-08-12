@@ -56,27 +56,20 @@ Tech: **HTML, CSS, JavaScript**
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmUphade&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmUphade&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:omuphade1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-omuphade1%40gmail.com-4CAF50?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:omuphade1@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="http://linkedin.com/in/omuphade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Uphade-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="http://linkedin.com/in/omuphade" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/OmUphade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-OmUphade-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/OmUphade" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 
 ---
 

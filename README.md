@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU2eHFhOXZzd2YwZ2ZoZDV4bDRoNWhjcG85a2h1NnAwdGd5ZjloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Code Animation">
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -32,24 +28,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-### [🌍 WanderLust](https://github.com/OmUphade/WanderLust)
-A travel accommodation platform inspired by Airbnb.  
-Tech: **EJS, CSS, JavaScript, Node.js, Express.js, MongoDB**  
-- MVC architecture with **server-side validation** using Joi.  
-- Integrated **Mapbox** for maps & **Cloudinary** for image uploads.  
-- Deployed on **Render** with MongoDB Atlas.  
-
----
-
-### [💻 Hack The Web – NGO Website](https://github.com/OmUphade/Hack-The-Web)
-Fully responsive NGO website built in 24 hours during a hackathon.  
-Tech: **HTML, CSS, JavaScript**  
-- Achieved **2nd Runner-Up** position.  
-
----
-
 ## 🏆 Achievements  
 - 🥈 **2nd Runner-Up** – Hack the Web Hackathon 2025 (1st in Round 1)  
 - 🎯 Multiple hackathon participations with impactful results  
@@ -68,12 +46,4 @@ Tech: **HTML, CSS, JavaScript**
   <a href="https://github.com/OmUphade" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
-
----
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>

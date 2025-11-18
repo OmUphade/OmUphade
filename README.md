@@ -22,7 +22,12 @@
 | 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" /> |
 | 🖥 **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
 | 🗄 **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
-| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| ⚙️ **Tools** | 
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
+<img src="https://skillicons.dev/icons?i=githubcopilot" />
+<img src="https://skillicons.dev/icons?i=googlecloud" /> |
+| ⚙️ |
+
 
 </div>
 
